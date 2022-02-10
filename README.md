@@ -21,10 +21,10 @@
 
 # Screenshot:
 
-<img src="/assets/images/icons/pngs/screnshot1.png"/>
-<img src="/assets/images/icons/pngs/screnshot-2.png"/>
-<img src="/assets/images/icons/pngs/screnshot-3.png"/>
-<img src="/assets/images/icons/pngs/screnshot-5.png"/>
+<img src="/assets/images/icons/pngs/screnshot1.jpg"/>
+<img src="/assets/images/icons/pngs/screnshot-2.jpg"/>
+<img src="/assets/images/icons/pngs/screnshot-3.jpg"/>
+<img src="/assets/images/icons/pngs/screnshot-5.jpg"/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
